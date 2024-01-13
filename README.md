@@ -4,7 +4,7 @@ This is a simple "Hello World" program, that when run, will print four "Hello Wo
 
 This program was made as a simple demonstration of basic programming knowledge and experience.
 
-[Program Demo Video](http://youtube.link.goes.here)
+[Program Demo Video](https://youtu.be/pQpPTZLAZQU)
 
 # Development Environment
 
